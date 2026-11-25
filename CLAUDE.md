@@ -1,10 +1,10 @@
 # Atheos Studios — Site Guide
 
 Read the master workspace guide first: [`..\CLAUDE.md`](../CLAUDE.md). It covers the
-shared build recipe (Astro + GitHub Pages), the publish steps, and the domain-freeing
+shared build recipe (Astro, served from Vault), the publish steps, and the domain-freeing
 plan. This file only covers what's specific to Atheos Studios.
 
-- **Domain:** atheosstudios.com — served by GitHub Pages (through Cloudflare).
+- **Domain:** atheosstudios.com, served from Vault, Josh's home server, through Cloudflare (since 2026-11-25; GitHub Pages before, turned off the same day). Push to `main`: GitHub builds it, the workflow's `vault` job pushes the finished pages to the `site` branch, and Vault serves them within about four minutes. How it works and how to roll back: `AtheosHome/vault/README.md`, "Public websites", in `jwollberg/atheos-home`.
 - **What it is:** Josh's independent video game studio.
 - **Must-have:** a prominent link out to the studio's first game, **Grave Error**
   (graveerrorgame.com — see the `Website-Grave Error` folder).
@@ -46,5 +46,5 @@ mysterious, human — **not** corporate.
   (OAuth client in `atheos-access`, published) needs a public home page, privacy policy and terms. They
   are the one place the site gives a contact email, and nothing on the home page links to them.
 
-**Status:** Nyx is live at atheosstudios.com (GitHub Pages behind Cloudflare; shipped 2026-10-09). Push to
+**Status:** Nyx is live at atheosstudios.com (on Vault behind Cloudflare since 2026-11-25; shipped 2026-10-09 on GitHub Pages). Push to
 `main` = deploy.
