@@ -31,7 +31,7 @@ mysterious, human — **not** corporate.
     survival, solo or co-op, PC, "Coming eventually". The risen are "Hacks"; the player is a "Null";
     HACK program, Core Update 3.0. Never say top-down/2D, Unity, Early Access, Steam/wishlist, or a
     date. Links to graveerrorgame.com. The tagline "You don't beat this world. You outlast it." is Josh's.
-  - **Elderdeep** (`C:\Projects\Elderdeep\README.md`, `LORE.md`, esp. its Register section: plain, dry,
+  - **Elderdeep** (`C:\Projects\elderdeep\README.md`, `LORE.md`, esp. its Register section: plain, dry,
     nothing grand; no gods/temples, quests, chosen ones, ancient evils, kings). 2D dig-and-build
     platformer, "In development". Don't link its private tracker.
   - **Holdout** (`C:\Projects\Tower Defense Game\docs\vision.md`): Josh calls it "Holdout (working
