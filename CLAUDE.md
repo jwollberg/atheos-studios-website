@@ -27,7 +27,7 @@ mysterious, human — **not** corporate.
   are SVG symbols in `src/components/Sprite.astro`, recolored with `currentColor`.
 - **Three games.** Copy lives in the `games` array at the top of `src/pages/index.astro`. Ground every
   claim in the game's own docs; don't invent lore.
-  - **Grave Error** (`C:\Projects\Grave Error\LORE.md`, `docs\vision.md`): 3D first-person zombie
+  - **Grave Error** (`C:\Projects\grave-error\LORE.md`, `docs\vision.md`): 3D first-person zombie
     survival, solo or co-op, PC, "Coming eventually". The risen are "Hacks"; the player is a "Null";
     HACK program, Core Update 3.0. Never say top-down/2D, Unity, Early Access, Steam/wishlist, or a
     date. Links to graveerrorgame.com. The tagline "You don't beat this world. You outlast it." is Josh's.
